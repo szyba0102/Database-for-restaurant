@@ -46,12 +46,12 @@ oraz firm.
 
 ## Wymagane elementy w projekcie
 propozycja funkcji realizowanych przez system – wraz z określeniem który użytkownik jakie funkcje może
-realizować (krótka lista);
+realizować (krótka lista); </br>
 • projekt bazy danych; </br>
-• zdefiniowanie bazy danych;
+• zdefiniowanie bazy danych; </br>
 • zdefiniowanie warunków integralności: wykorzystanie wartości domyślnych, ustawienie dopuszczalnych
 zakresów wartości, unikalność wartości w polach, czy dane pole może nie zostać wypełnione, złożone warunki
-integralnościowe;
+integralnościowe; </br>
 • propozycja oraz zdefiniowanie operacji na danych (procedury składowane, triggery, funkcje) - powinny zostać
 zdefiniowane procedury składowane do wprowadzania danych (także do zmian konfiguracyjnych). Należy
 stworzyć także funkcje zwracające istotne ilościowe informacje. Triggery należy wykorzystać do zapewnienia
