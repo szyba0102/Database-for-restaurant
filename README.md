@@ -1,4 +1,5 @@
 # Database for restaurant
+# Collaborative project written in three-person group. 
 ## PODSTAWY BAZ DANYCH | PROJEKT
 ## INSTYTUT INFORMATYKI WIEIT AGH 2021
 
