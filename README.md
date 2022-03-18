@@ -31,11 +31,11 @@ Internetowy formularz umożliwia także rezerwację stolików dla firm, w dwóch
 i/lub rezerwację stolików dla konkretnych pracowników firmy (imiennie).
 
 ## Rabaty
-System umożliwia realizację programów rabatowych dla klientów indywidualnych:
+System umożliwia realizację programów rabatowych dla klientów indywidualnych: </br>
 • Po realizacji ustalonej liczby zamówień Z1 (przykładowo Z1=10) za co najmniej określoną kwotę K1 (np. 30
-zł każde zamówienie): R1% (np. 3%) zniżki na wszystkie zamówienia;
+zł każde zamówienie): R1% (np. 3%) zniżki na wszystkie zamówienia; </br>
 • Po realizacji zamówień za łączną kwotę K2 (np. 1000 zł): jednorazowa zniżka R2% (np. 5%) na zamówienia
-złożone przez D1 dni (np. D1 = 7), począwszy od dnia przyznania zniżki (zniżki nie łączą się). 
+złożone przez D1 dni (np. D1 = 7), począwszy od dnia przyznania zniżki (zniżki nie łączą się). </br>
 
 ## Raporty
 System umożliwia generowanie raportów miesięcznych i tygodniowych, dotyczących rezerwacji stolików, rabatów,
@@ -55,10 +55,10 @@ integralnościowe; </br>
 • propozycja oraz zdefiniowanie operacji na danych (procedury składowane, triggery, funkcje) - powinny zostać
 zdefiniowane procedury składowane do wprowadzania danych (także do zmian konfiguracyjnych). Należy
 stworzyć także funkcje zwracające istotne ilościowe informacje. Triggery należy wykorzystać do zapewnienia
-spójności oraz spełnienia przez system specyficznych wymagań klienta;
+spójności oraz spełnienia przez system specyficznych wymagań klienta; </br>
 • propozycja oraz zdefiniowanie struktury widoków ułatwiających dostęp do danych – widoki powinny
 prezentować dla użytkowników to, co ich najbardziej interesuje. Ponadto powinny zostać zdefiniowane widoki
-dla różnego typu raportów;
-• propozycja oraz zdefiniowanie indeksów;
+dla różnego typu raportów; </br>
+• propozycja oraz zdefiniowanie indeksów; </br>
 • propozycja oraz określenie uprawnień do danych - należy zaproponować role oraz ich uprawnienia do operacji,
-widoków, procedur.
+widoków, procedur. </br>
